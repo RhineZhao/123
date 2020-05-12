@@ -1,0 +1,23 @@
+一、2020年全国大学生物联网设计竞赛章程
+https://iot.sjtu.edu.cn/show.aspx?info_lb=36&info_id=770&flag=2
+
+二、2020 年全国大学生物联网设计竞赛（华为杯）命题
+https://iot.sjtu.edu.cn/show.aspx?info_lb=36&info_id=775&flag=2
+
+
+
+命题
+中国移动物联网开放平台—OneNET是中移物联网有限公司基于物联网技术和产业特点打造的生态环境，适配各种网络环境和协议类型，支持各类传感器和智能硬件的快速接入和大数据服务，提供丰富的API和应用模板以支持各类行业应用和智能硬件的开发。
+请各参赛团队基于OneNET平台自行设计开发一款端到端物联网行业应用，具备“数据上传”以及“远程控制”等基础功能，团队项目需要使用OneNET平台View2.0使能工具生成网页应用，同时OneNET额外提供免费MQ消息队列、LBS基站定位、WIFI室内定位以及数据分析服务等功能供团队使用。各团队除在全国大学生物联网设计竞赛官网报名外还须在OneNET论坛（论坛地址：https://open.iot.10086.cn/bbs/forum.php?mod=viewthread&tid=37542&page=1&extra=#pid708445）发帖，帖子内容包括：项目简介、项目产品截图、View2.0应用链接、介绍ppt、如有视频可附上视频。发表的应用能够解决现实生活中的实际问题，行业领域包括但不限于：智慧城市、智能家居、智慧农业、智慧金融、智慧医疗、智慧工业、共享经济、新零售、物联网安全等。
+技术支持：
+（1）OneNET技术开发文档：https://open.iot.10086.cn/devdoc
+（2）参赛团队可到OneNET官网酌情申请OneNET开发板用于项目研发使用，申请地址：
+https://open.iot.10086.cn/productservice/onenetdevboard/
+（3）OneNET线上开发者社区：
+https://open.iot.10086.cn/bbs/forum.php
+（4）OneNET校企合作：
+https://open.iot.10086.cn/maker/univercity
+（5）OneNET学院：https://open.iot.10086.cn/college/home
+（6）OneNET大赛技术支持qq交流群：887624121
+（7）OneNET工作人员电话：18883870369
+
